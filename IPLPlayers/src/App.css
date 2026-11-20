@@ -1,0 +1,16 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+.MuiCard-root {
+  border-radius: 10px !important;
+  transition: 0.3s;
+}
+
+.MuiCard-root:hover {
+  box-shadow: 0 4px 12px gray;
+  transform: translateY(-3px);
+}
